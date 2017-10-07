@@ -30,5 +30,8 @@
 #' \item{Monaragala}{Monaragala district dengue cases}
 #' \item{Ratnapura}{Ratnapura district dengue cases}
 #' \item{Kegalle}{Kegalle district dengue cases}}
-#' @source\url{https://github.com/thiyangt/mozzie}
+#' @source weekly epidemiological reports published by the Epidemiological Unit, Ministry of Health, Sri Lanka
+#' @example
+#' head(mosquito)
+#' summary(mosquito)
 "mozzie"
