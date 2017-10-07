@@ -43,4 +43,9 @@ mozzie
 \description{
 Weekly notified dengue cases in 25 districts of Sri Lanka from 2008/week-52 to 2014/week-21
 }
+\examples{
+data(mozzie)
+head(mozzie)
+summary(mozzie)
+}
 \keyword{datasets}

@@ -31,7 +31,9 @@
 #' \item{Ratnapura}{Ratnapura district dengue cases}
 #' \item{Kegalle}{Kegalle district dengue cases}}
 #' @source weekly epidemiological reports published by the Epidemiological Unit, Ministry of Health, Sri Lanka
-#' @example
-#' head(mosquito)
-#' summary(mosquito)
+#'
+#' @examples
+#' data(mozzie)
+#' head(mozzie)
+#' summary(mozzie)
 "mozzie"
