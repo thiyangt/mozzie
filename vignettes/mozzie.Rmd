@@ -1,0 +1,37 @@
+---
+title: "Package-mozzie"
+author: "Thiyanga Talagala"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Introduction
+
+This vignette gives a quick introduction to how to use data in `mozzie` package for diffferent purposes.
+
+# Load data
+```{r}
+library(mozzie)
+
+```
+
+# Data descripton
+
+```{r}
+data(mozzie)
+summary(mozzie)
+```
+
+
+
