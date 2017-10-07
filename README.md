@@ -1,5 +1,4 @@
 # mozzie
-[![Travis-CI Build Status](https://travis-ci.org/hadley/babynames.svg?branch=master)](https://travis-ci.org/hadley/babynames)
 
 R package for weekly notified dengue cases in Sri Lanka 
 
