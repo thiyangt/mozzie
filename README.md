@@ -8,6 +8,7 @@ R package for weekly notified dengue cases in Sri Lanka
 
 ```R
 # Install the development version from GitHub
+install.packages("devtools") 
 devtools::install_github("thiyangt/mozzie")
 library(mozzie)
 ```
@@ -15,6 +16,7 @@ library(mozzie)
 ## Example
 
 ```R
+library(mozzie)
 head(mozzie)
 summary(mozzie)
 ```
