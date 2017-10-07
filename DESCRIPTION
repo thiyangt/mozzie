@@ -1,6 +1,6 @@
 Package: mozzie
 Type: Package
-Title: Weekly notified dengue cases in Sri Lanka
+Title: Weekly Notified Dengue Cases in Sri Lanka
 Version: 0.1.0
 Author: Thiyanga Talagala
 Maintainer: Thiyanga Talagala <thiyanga.talagala@monash.edu>
