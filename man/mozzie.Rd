@@ -35,7 +35,7 @@
 \item{Ratnapura}{Ratnapura district dengue cases}
 \item{Kegalle}{Kegalle district dengue cases}}}
 \source{
-\url{https://github.com/thiyangt/mozzie}
+weekly epidemiological reports published by the Epidemiological Unit, Ministry of Health, Sri Lanka
 }
 \usage{
 mozzie
