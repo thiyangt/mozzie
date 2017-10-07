@@ -5,6 +5,7 @@ Version: 0.1.0
 Author: Thiyanga Talagala
 Maintainer: Thiyanga Talagala <thiyanga.talagala@monash.edu>
 Description: Weekly notified dengue cases in 25 districts of Sri Lanka from 2008/ week-52 to 2014/ week-21.
+Depends:R (>= 2.10)
 License: CC0
 Encoding: UTF-8
 LazyData: true
