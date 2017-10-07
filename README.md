@@ -11,3 +11,10 @@ R package for weekly notified dengue cases in Sri Lanka
 devtools::install_github("thiyangt/mozzie")
 library(mozzie)
 ```
+
+## Example
+
+```R
+head(mozzie)
+summary(mozzie)
+```
