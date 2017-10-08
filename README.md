@@ -1,6 +1,6 @@
 # mozzie
 
-[![Travis-CI Build Status](https://travis-ci.org/thiyangt/mozzie.svg?branch=master)](https://travis-ci.org/thiyangt/mozzie)
+[![Travis-CI Build Status](https://travis-ci.org/thiyangt/colmozzie.svg?branch=master)](https://travis-ci.org/thiyangt/colmozzie)
 
 R package for weekly notified dengue cases in Sri Lanka 
 
