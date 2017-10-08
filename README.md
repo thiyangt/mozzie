@@ -27,8 +27,8 @@ You can install mozzie from github with:
 devtools::install_github("thiyangt/mozzie")
 ```
 
-Example
--------
+Examples
+--------
 
 This is a basic example which shows you how to solve a common problem:
 
