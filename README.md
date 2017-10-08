@@ -1,4 +1,4 @@
-# mozzie
+# colmozzie
 
 [![Travis-CI Build Status](https://travis-ci.org/thiyangt/colmozzie.svg?branch=master)](https://travis-ci.org/thiyangt/colmozzie)
 
