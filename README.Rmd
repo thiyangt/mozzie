@@ -52,3 +52,9 @@ head(mozzie)
 ```{r}
 summary(mozzie)
 ```
+
+```{r}
+library(ggplot2)
+library(forecast)
+autoplot(as.ts(mozzie$Colombo))+labs(x="time index", y="counts", title="Time series plot of dengue cases in Colombo")
+```
