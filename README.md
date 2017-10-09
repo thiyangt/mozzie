@@ -3,7 +3,7 @@
 
 ------------------------------------------------------------------------
 
-[![Last-changedate](https://img.shields.io/badge/last%20change-2017--10--09-yellowgreen.svg)](/commits/master) [![Project Status: Active ? The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Licence](https://img.shields.io/badge/licence-CC0-blue.svg)](http://choosealicense.com/licenses/cc0-1.0/) [![Build Status](https://travis-ci.org/thiyangt/mozzie.svg?branch=master)](https://travis-ci.org/thiyangt/mozzie)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2017--10--09-yellowgreen.svg)](/commits/master) [![Project Status: Active ? The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Licence](https://img.shields.io/badge/licence-CC0-blue.svg)](http://choosealicense.com/licenses/cc0-1.0/) [![Build Status](https://travis-ci.org/thiyangt/mozzie.svg?branch=master)](https://travis-ci.org/thiyangt/mozzie)[![Rdoc](http://www.rdocumentation.org/badges/version/mozzie)](http://www.rdocumentation.org/packages/mozzie)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 mozzie
